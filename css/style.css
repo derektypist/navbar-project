@@ -142,3 +142,8 @@ nav {
         color: hsl(205, 90%, 76%);
     }
 }
+
+/* Home Page Contents */
+#home-description {
+    list-style-type: square;
+}
