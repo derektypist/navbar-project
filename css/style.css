@@ -21,6 +21,13 @@ h4 a:hover {
     color: fuchsia;
 }
 
+main {
+    min-height: 100vh;
+    display: grid;
+    place-items: center;
+}
+
+
 /* Navbar */
 nav {
     background: white;
