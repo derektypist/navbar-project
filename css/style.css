@@ -154,6 +154,13 @@ nav {
     left: 450px;
 }
 
+@media screen and (min-width: 800px) {
+    .project-items {
+        position: absolute;
+        left: 575px;
+    }
+}
+
 .project-icons a i {
    color: turquoise;
 }
