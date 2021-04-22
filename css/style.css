@@ -149,17 +149,17 @@ nav {
 }
 
 /* Projects */
-.project-icons {
+.contents .project-icons {
     display: inline-flex;
     position: absolute;
     right: 50px;
 }
 
-.project-icons a {
+.contents .project-icons a {
     margin: 0 0.5rem;
     color: deepskyblue;
 }
 
-.project-icons a:hover {
+.contents .project-icons a:hover {
    color: teal;
 }
