@@ -156,7 +156,8 @@ nav {
 
 @media screen and (min-width: 800px) {
     .project-items {
-        display: flex;
+        position: absolute;
+        right: 5px;
     }
 }
 
