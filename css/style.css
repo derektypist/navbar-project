@@ -179,6 +179,7 @@ nav {
 
 .professional-social-icons a {
     color: deepskyblue;
+    margin: 0 0.5rem;
 }
 
 .professional-social-icons a:hover {
