@@ -172,3 +172,15 @@ nav {
     text-decoration: none;
     color: fuchsia;
 }
+
+.professional-social-icons {
+    display: flex;
+}
+
+.professional-social-icons a {
+    color: deepskyblue;
+}
+
+.professional-social-icons a:hover {
+    color: blue;
+}
