@@ -153,6 +153,7 @@ nav {
     display: inline-flex;
     position: absolute;
     left: 400px;
+    right: 100px;
 }
 
 .project-icons a {
