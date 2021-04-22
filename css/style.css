@@ -152,3 +152,12 @@ nav {
 .project-icons {
     left: 150px;
 }
+
+.project-icons a i {
+    color: white;
+    background-color: green;
+}
+
+.project-icons a i:hover {
+    background-color: fuchsia;
+}
