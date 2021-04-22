@@ -151,7 +151,7 @@ nav {
 /* Projects */
 .project-icons {
     display: inline-flex;
-    text-align: right;
+    margin-left: 200px;
 }
 
 .project-icons a {
