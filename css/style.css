@@ -147,3 +147,8 @@ nav {
 #home-description, .project-list {
     list-style-type: square;
 }
+
+/* Projects */
+.project-icons {
+    margin-left: 150px;
+}
