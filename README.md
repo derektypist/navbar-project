@@ -25,21 +25,31 @@ Organising principle is interests or biography.
 
 In the about page, there is a brief information on what I do.
 
-In the projects page, there are links to live projects and GitHub repositories in each project.
+In the projects page, there are links to live projects and GitHub repositories in each project.  These projects are with Code Institute and FreeCodeCamp.
 
 In the contact page, there are links to professional associations (e.g. British Computer Society) and professional social media (e.g. LinkedIn).
 
+## Features
 
+Links to Professional Associations, Professional Social Media (e.g. LinkedIn), Live Projects and GitHub Repositories.
 
+## Technologies
+
+This project uses HTML5, CSS3, JavaScript, Google Fonts and Font Awesome 5.15.2.
+
+## Testing
+
+Ensure user stories have been met.  Manually test each link to ensure that they are pointing to the correct destination.  External links (e.g. LinkedIn) open in a new window.
+
+## Deployment
+
+Deployed on [GitHub Pages](https://derektypist.github.io/navbar-project) at the main branch.
 
 ## Credits
 
 ### Content
 
 Styles in style.css taken from John Smilga, see acknowledgements.  Accessed on 21 April 2021.
-
-
-
 
 ### Acknowledgements
 
