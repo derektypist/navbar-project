@@ -144,7 +144,7 @@ nav {
 }
 
 /* List Items for Home Page and Projects */
-#home-description, .project-list .contact-list {
+#home-description, .project-list, .contact-list {
     list-style-type: square;
 }
 
@@ -160,4 +160,15 @@ nav {
 
 .contents .project-icons a:hover {
    color: teal;
+}
+
+/* Contacts */
+.professional-links li a {
+    text-decoration: none;
+    color: green;
+}
+
+.professional-links li a:hover {
+    text-decoration: none;
+    color: fuchsia;
 }
