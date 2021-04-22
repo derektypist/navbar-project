@@ -151,8 +151,8 @@ nav {
 /* Projects */
 .contents .project-icons {
     display: inline-flex;
-    position: absolute;
-    right: 0;
+    position: fixed;
+    right: 50px;
 }
 
 .contents .project-icons a {
