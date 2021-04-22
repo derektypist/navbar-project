@@ -150,7 +150,8 @@ nav {
 
 /* Projects */
 .project-icons {
-    margin-left: 5px;
+    position: absolute;
+    left: 200px;
 }
 
 .project-icons a i {
