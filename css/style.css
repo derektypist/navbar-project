@@ -150,7 +150,7 @@ nav {
 
 /* Projects */
 .project-icons {
-   display: flex;
+   display: inline-flex;
 }
 
 
