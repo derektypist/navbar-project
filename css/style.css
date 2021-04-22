@@ -150,16 +150,9 @@ nav {
 
 /* Projects */
 .project-icons {
-    position: absolute;
-    left: 450px;
+   display: flex;
 }
 
-@media screen and (min-width: 800px) {
-    .project-items {
-        position: absolute;
-        left: 800px;
-    }
-}
 
 .project-icons a i {
    color: turquoise;
