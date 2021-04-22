@@ -151,7 +151,7 @@ nav {
 /* Projects */
 .project-icons {
     position: absolute;
-    right: 10px;
+    left: 450px;
 }
 
 .project-icons a i {
