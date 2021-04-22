@@ -154,10 +154,9 @@ nav {
 }
 
 .project-icons a i {
-    color: white;
-    background-color: green;
+   color: turquoise;
 }
 
 .project-icons a i:hover {
-    background-color: fuchsia;
+   color: darkcyan;
 }
