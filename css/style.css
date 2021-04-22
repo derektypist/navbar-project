@@ -150,14 +150,14 @@ nav {
 
 /* Projects */
 .project-icons {
-   display: inline-flex;
+    display: flex;
 }
 
-
-.project-icons a i {
-   color: turquoise;
+.project-icons a {
+    margin: 0 0.5rem;
+    color: deepskyblue;
 }
 
-.project-icons a i:hover {
-   color: darkcyan;
+.project-icons a:hover {
+   color: teal;
 }
