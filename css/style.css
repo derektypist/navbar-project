@@ -143,7 +143,7 @@ nav {
     }
 }
 
-/* List Items for Home Page and Projects */
+/* Style of List Items for Home Page, Projects and Contact */
 #home-description, .project-list, .contact-list {
     list-style-type: square;
 }
